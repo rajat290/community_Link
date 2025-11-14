@@ -21,5 +21,10 @@
 </head>
 <body>
     <?= $this->fetch('content') ?>
+    <hr>
+<p>
+    This email was sent from CommunityLink - Connecting Communities Through Volunteering<br>
+    Contact: info@communitylink.org.au | Phone: (02) 1234 5678
+</p>
 </body>
 </html>
